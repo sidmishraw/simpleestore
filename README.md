@@ -1,7 +1,10 @@
 # **EStore**
 ----
+
 **Author**: Sidharth Mishra
+
 **Version**: 0.0.1
+
 ----
 > Note: All objects made explicitly by me are `Value` objects. These include `Customer`, `ShoppingCart`, `Item`, `CartState`, `EStore` and `EStoreDriver`.
 
